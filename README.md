@@ -13,7 +13,7 @@ This program takes two integer inputs from the user and calculates both their su
 ### prog2.c:
 This C program consists of a number of functions that perform various character and numerical operations.
 
-- The functions isUpper(), isLower(), isAlpha(), and isDigit() take an integer as an argument, representing a character in ASCII, and return 1 if the character is an uppercase letter, a lowercase letter, an alphabet letter, or a digit respectively. Otherwise, they return 0.
+- The functions **isUpper()**, **isLower()**, **isAlpha()**, and **isDigit()** take an integer as an argument, representing a character in ASCII, and return 1 if the character is an uppercase letter, a lowercase letter, an alphabet letter, or a digit respectively. Otherwise, they return 0.
 
 - **toLower()/toUpper()**: The functions take an integer argument and return its lowercased or uppercased version respectively.
 
